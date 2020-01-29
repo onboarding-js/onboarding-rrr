@@ -1,0 +1,28 @@
+.Github-Search {
+  display: inline;
+  font-family: Monaco;
+  font-size: 60px;
+  color: #000000;
+}
+
+
+.text-style-1 {
+  font-family: Raleway;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.text-style2{
+  font-family: Raleway;
+  font-weight: 200;
+  font-style: italic;
+  font-size:40px;
+}
+
+
+.Github-Search2 {
+  font-family: Monaco;
+  font-size: 40px; 
+  color: #000000;
+  
+}
