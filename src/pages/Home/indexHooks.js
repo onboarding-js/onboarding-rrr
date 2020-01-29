@@ -12,7 +12,7 @@ const Home = () => {
     const [user, setUser] = useState({});
     // const [error, setError] = useState("");
 
-    // console.log(valueInput)
+    console.log(valueInput)
 
     return (
         <div className="container__home">
